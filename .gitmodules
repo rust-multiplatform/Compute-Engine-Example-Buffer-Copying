@@ -1,0 +1,3 @@
+[submodule "shared/Compute-Engine-Library"]
+	path = shared/Compute-Engine-Library
+	url = https://github.com/rust-multiplatform/Compute-Engine-Library
